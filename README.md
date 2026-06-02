@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Chanuka Thanujaya👋
+### ☁️ Aspiring DevOps / Infrastructure Engineer
 
-<!--
-**chanuka0/chanuka0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between development and operations by building automated, scalable, and reliable infrastructure.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning: Kubernetes, Advanced CI/CD patterns, and GitOps.
+- ⚡ Fun fact: I treat Infrastructure as Code and hate manual server configuration!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+
+- **Cloud:** AWS (EC2, S3, RDS, IAM) / Google Cloud / Azure
+- **CI/CD:** GitHub Actions / Jenkins / GitLab CI
+- **Infrastructure as Code (IaC):** Terraform / Ansible
+- **Containers & Orchestration:** Docker / Kubernetes
+- **Scripting & OS:** Linux Bash / Python
+- **Monitoring:** Prometheus / Grafana
